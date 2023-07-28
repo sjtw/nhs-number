@@ -11,5 +11,7 @@
   "devDependencies": {
     "jest": "^29.6.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
 }
